@@ -1,4 +1,4 @@
-# refind-themegen WIP
+# WIP: refind-themegen
 A simple utility to make building rEFInd bootloader themes easier
 
 It makes building rEFInd themes easier as you dont have to worry about -
